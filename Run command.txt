@@ -1,0 +1,1 @@
+Streamlit run "C:\Users\HP\Desktop\Cardio\CardiovascularDisease.py"
